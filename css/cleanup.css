@@ -1,1 +1,11 @@
 /* write your override styles here */
+.class {
+    display: none;
+}
+#id {
+    display: none;
+    display:none;
+}
+.class {
+    display: none;
+}
